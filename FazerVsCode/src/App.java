@@ -1,9 +1,9 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class App {
         //Comentário
 
-    public static void funcao_teste (){
+    /* public static void funcao_teste (){
         //Biblioteca para entrada de dados
         Scanner ler = new Scanner(System.in);
 
@@ -25,5 +25,6 @@ public class App {
         funcao_teste();
 
 
-    }
+    } */
+    
 }
